@@ -3,6 +3,8 @@ In this repository, I use Twitter's API and the Tweepy library for python to ana
 
 I chose these two particular regions because these regions tend to make up what we traditionally know as the Western World, and I wanted to observe any noticeable cultural trends or general patterns that may come up between them.
 
+This was made for Lab 2 of Geography 458 at the University of Washington.
+
 ## Map 1: United States
 ![USA Tweet Map](https://user-images.githubusercontent.com/60171023/164874944-26b0eadb-6472-4941-abc6-71b29ef41067.png)
 This first map is just a map of the distribution of tweets across the United States, as well as the Vancouver and Toronto metropolitan areas and some parts of Northern Mexico.
